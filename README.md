@@ -21,3 +21,9 @@ docker images
 ```
 docker run -d -p 5000:5000 image_name
 ``` 
+
+## list running docker containers
+
+```
+docker ps
+```
